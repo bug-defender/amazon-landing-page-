@@ -26,7 +26,4 @@ Please note that this project is intended for educational purposes only and shou
 
 Feel free to explore the code and make modifications according to your requirements or to further enhance the project.
 
-### Hosted Project
-The static landing page clone is hosted on GitHub Pages. You can access it [here](https://utkarshkrishna2004.github.io/Amazon-Landing-Page-Clone/).
-
 Thank you!
